@@ -16,7 +16,7 @@ You need:
 - Go
 
 > [!NOTE]
-> you still need the dependencies for the prebuilt packages!!!!!
+> You still need the dependencies for the prebuilt packages!
 
 You must also be on a recent Linux distribution. Debian 13 has been tested to work.
 
